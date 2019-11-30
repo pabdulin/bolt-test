@@ -19,6 +19,8 @@ Output: ['I', ' ', 'e','v','o','l',' ','y','f','i','x','a','T'];
 
 Example is in Java, but choice of programming language is free.Please write the code in the web browser, don't test or run it in your IDE.
 Extra: you will earn extra points if you write unit tests for this function.
+
+Live coding result: https://www.interviewzen.com/interview/4FPFdr3
      */
     [TestClass]
     public class ProblemTest
