@@ -74,6 +74,8 @@ Live codiong result: https://www.interviewzen.com/interview/4FPFdr3
                 // advance to next possible word
                 wordStart = wordEnd + 1;
             }
+
+            return input;
         }
 
         public static bool isWhitespace(char symbol)
